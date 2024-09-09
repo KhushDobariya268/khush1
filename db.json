@@ -1,0 +1,24 @@
+{
+  "students": [
+    { "id": "1", "studentname": "Shail", "enrolmentno": "001", "dob": "2005-04-12" },
+    { "id": "2", "studentname": "Raj", "enrolmentno": "002", "dob": "2006-09-23" },
+    { "id": "3", "studentname": "Raxit", "enrolmentno": "003", "dob": "2005-12-05" },
+    { "id": "4", "studentname": "Ravi", "enrolmentno": "004", "dob": "2007-03-11" },
+    { "id": "5", "studentname": "Krishiv", "enrolmentno": "005", "dob": "2006-07-18" },
+    { "id": "6", "studentname": "Deep", "enrolmentno": "006", "dob": "2005-10-22" },
+    { "id": "7", "studentname": "Dhruv", "enrolmentno": "007", "dob": "2006-01-14" },
+    { "id": "8", "studentname": "Jeet", "enrolmentno": "008", "dob": "2007-05-30" },
+    { "id": "9", "studentname": "Meet", "enrolmentno": "009", "dob": "2006-11-08" },
+    { "id": "10", "studentname": "Khushbu", "enrolmentno": "010", "dob": "2005-06-21" },
+    { "id": "11", "studentname": "Mishri", "enrolmentno": "011", "dob": "2007-02-10" },
+    { "id": "12", "studentname": "Meera", "enrolmentno": "012", "dob": "2006-08-15" },
+    { "id": "13", "studentname": "Kirti", "enrolmentno": "013", "dob": "2005-04-28" },
+    { "id": "14", "studentname": "Riya", "enrolmentno": "014", "dob": "2006-10-19" },
+    { "id": "15", "studentname": "Ramij", "enrolmentno": "015", "dob": "2007-01-07" },
+    { "id": "16", "studentname": "Viren", "enrolmentno": "016", "dob": "2005-11-29" },
+    { "id": "17", "studentname": "Aditya", "enrolmentno": "017", "dob": "2006-03-12" },
+    { "id": "18", "studentname": "Tara", "enrolmentno": "018", "dob": "2007-09-01" },
+    { "id": "19", "studentname": "Yash", "enrolmentno": "019", "dob": "2005-08-20" },
+    { "id": "20", "studentname": "Jiya", "enrolmentno": "020", "dob": "2006-12-16" }
+  ]
+}
